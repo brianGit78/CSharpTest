@@ -20,6 +20,7 @@ namespace myApp
             Console.WriteLine($@"C:\output\{projectName}\Data");
 
             //new comment
+            //other comment
             
         }
     }
