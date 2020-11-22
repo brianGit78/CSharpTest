@@ -21,6 +21,8 @@ namespace myApp
 
             //new comment
             //other comment
+
+            //some other 3rd comment
             
         }
     }
